@@ -1,0 +1,15 @@
+{
+  "local-history.path": ".history/",
+  "local-history.enabled": true,
+  "local-history.saveDelay": 0,
+  "local-history.exclude": [
+    "**/.history/**",
+    "**/node_modules/**",
+    "**/.git/**"
+  ],
+  "local-history.daysLimit": 30,
+  "local-history.maxDisplay": 50,
+  "local-history.notifyOnSave": true,
+  "local-history.compress": true,
+  "local-history.treeLocation": "Explorer"
+}
